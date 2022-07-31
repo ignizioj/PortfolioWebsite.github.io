@@ -1,7 +1,7 @@
-#### Data Analytics and Development
+#### Data Analytics and Development Portfolio
 Hi there!  My name is Joel Ignizio and I am a Data Analyst working with large data sets.  Primary tasks include queries, data cleansing, sorting, predictions, databases, and visual representations. I also enjoy collaborating with other data analysts/scientists and software developers for their needs with databases. 
 
-
+This website serves as a way to display my portfolio of ongoing projects and code in a convient way. The projects themselves are housed in my PortfolioProjects repo.  Please view that repo for more information regarding my projects and their contents.
 
 Skills: Basic JS / Python3 / Excel / PostgreSQL / Tableau / HTML / CSS 
 
