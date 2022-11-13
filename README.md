@@ -5,9 +5,9 @@ This repo serves as a way to display my portfolio of ongoing projects and code i
 
 Skills: Basic JS / Python3 / Excel / PostgreSQL / Tableau / HTML / CSS 
 
-- 🔭 I’m currently working on my Portfolio and landing my first Data Analyst role  
+- 🔭 I’m currently working on my Portfolio and landing a Data Analyst role in the field of Education, Logistics, and Electrical/Systems.  
 - 🌱 I’m currently learning PowerBI 
-- 👯 I’m looking to collaborate on Databases  
+- 👯 I’m currently collaborating on:  Ski/Snowboard Website owned by Johnathan Buckhouse | Link: http://resortskimaps.com/  
 - 📫 How to reach me: ignizioj@gmail.com 
 
 
